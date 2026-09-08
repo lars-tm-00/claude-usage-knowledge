@@ -9,6 +9,19 @@ sessions in this repo.
 
 <!-- New entries are prepended below this line. -->
 
+## [Wie du diese 3 Geschäftsideen an diesem WE startest (mit Verena Scheffcyzk, Million Labs)](https://www.youtube.com/watch?v=fQZJPdUhDvs) — Digitale Optimisten | Geschäftsideen & Tech-Talks, 2026-09-07
+
+_Processed: 2026-09-08_
+
+Hauptthema ist ein Startup-Validierungs-Framework (Start-Launch-Grow), aber im Tool-Segment (~Minute 15-18) geht es konkret um KI-Tool-Auswahl und Prompting für MVP-Bau — dieser Teil wurde ausgewertet, der Rest (Business-Framework) ist außerhalb des Scopes dieser Wissensbasis.
+
+- Für reine Visualisierung/schnelle Demos (nicht-technische Gründer) sind Lovable oder Replit besser geeignet als Claude Code — sie sind stärker visuell und Prompt-zu-App-fokussiert.
+- Claude Code + Claude Design lohnen sich, sobald man technisch versierter ist — lassen sich gut mit Lovable/Replit kombinieren, um dabei gezielt Tokenkosten zu senken (z. B. Claude Code für komplexere Logik, Lovable für UI-Iteration).
+- Der größte Fehler beim KI-gestützten App-Bauen ist, zu viel Zeit ins Tool zu stecken statt in den Prompt selbst — welches Tool man zuerst nutzt, macht laut der Gästin kaum einen Unterschied; die Qualität des Prompts (klare Nutzer-Journeys pro Nutzertyp, z. B. bei einem Marketplace: Mentee/Mentor/Company-User getrennt durchdenken) entscheidet über das Ergebnis.
+- Schöne UI kann täuschen: Bei No-Code/KI-Buildern sieht das Frontend oft fertig aus, während das Backend fehlt — vor dem Weiterbauen prüfen, ob echte Datenlogik dahintersteckt, nicht nur eine hübsche Oberfläche.
+- Klassische No-Code-Tools (Make, Airtable) sind nicht obsolet — sie eignen sich weiterhin gut für Automatisierung und Datenhaltung, während KI-Builder (Lovable, Replit, Claude Code) besser für schnelle Produkt-Visualisierung/MVP-Demos sind. Je nach Aufgabe kombinieren statt eins durch das andere ersetzen.
+- Zusätzliche laufende Kosten bei KI-Buildern einkalkulieren: Neben der Hosting-/Subscription-Fee (oft ab 20-30€/Monat) kommen separate Token-Kosten fürs Prompten dazu — das wird von Einsteigern häufig übersehen.
+
 ## ["DAS ist ein Warnschuss für die Welt!" OpenAI-Agenten bilden SCHWARM & fälschen Protokolle | KI-NEWS](https://www.youtube.com/watch?v=tHv7eyiDPWg) — Everlast AI, 2026-08-30
 
 _Processed: 2026-09-02_
