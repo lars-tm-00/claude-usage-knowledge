@@ -1,0 +1,28 @@
+{
+  "channel_url": "https://www.youtube.com/@martindellwing",
+  "channel_slug": "go-high-level",
+  "drive_folder_id": "1PEkraHoFPVMrVfxXveTXHOQ5XJfqvqY7",
+  "topics": [
+    {
+      "slug": "ghl-meta-ads",
+      "title": "Go High Level + Meta Ads",
+      "guide_file": "guides/ghl-meta-ads.md",
+      "pdf_title": "Go High Level + Meta Ads Guide",
+      "focus": "Connecting and using Meta (Facebook/Instagram) Lead Ads with Go High Level: campaign setup for lead generation, Meta-specific integrations, native or Zapier/webhook-based lead sync into GHL."
+    },
+    {
+      "slug": "ghl-chatgpt-ads",
+      "title": "Go High Level + ChatGPT Ads",
+      "guide_file": "guides/ghl-chatgpt-ads.md",
+      "pdf_title": "Go High Level + ChatGPT Ads Guide",
+      "focus": "Using ChatGPT/AI tools for ad creative, ad copy, or AI-driven ad campaigns (including any ChatGPT-native ads product) together with Go High Level as the CRM/funnel backend."
+    },
+    {
+      "slug": "ghl-lead-funnel",
+      "title": "Go High Level Lead & CRM Funnel",
+      "guide_file": "guides/ghl-lead-funnel.md",
+      "pdf_title": "Go High Level Lead & CRM Funnel Guide",
+      "focus": "End-to-end CRM/funnel workflow inside Go High Level: leads arriving from any source, automated contact/follow-up sequences, pipeline stages, appointment booking, and product-sale flows."
+    }
+  ]
+}
