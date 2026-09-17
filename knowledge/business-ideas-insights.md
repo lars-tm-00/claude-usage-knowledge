@@ -9,6 +9,26 @@ skipped at the source.
 This file is NOT auto-imported into CLAUDE.md — reference it explicitly when relevant
 (e.g. while scouting or validating a niche).
 
+## [ChatGPT Ads jetzt in Deutschland 🤯 So funktioniert der OpenAI Ads Manager](https://www.youtube.com/watch?v=fMC5-t7U5gA) — Martin Dellwing | GoHighLevel Deutsch, 2026-09-01
+
+_Processed: 2026-09-17_
+
+Kompletter Live-Walkthrough der ersten echten ChatGPT-Ads-Kampagne (Beta-Zugang, DACH-Rollout) — Setup-Referenz für Lars' eigenes ChatGPT-Ads-Angebot.
+
+- ChatGPT Ads (OpenAI Ads Manager) ist seit ca. 1.9.2026 in der Beta für DACH/EU verfügbar, breiter Rollout wurde für die Folgetage angekündigt — sehr früher Zeitpunkt, entsprechend wenig Wettbewerb und wenig verlässliche Case-Study-Daten am Markt.
+- Kernvorteil gegenüber Meta Ads laut Video: ChatGPT-Nutzer werden nicht beim Entertainment-Konsum unterbrochen, sondern erreicht, während sie aktiv nach einer Lösung suchen — die KI empfiehlt das beworbene Produkt dann im Antwortkontext, klar als Werbung gekennzeichnet (bei kostenlosen/kleinen Plänen sichtbar, beim Pro-Plan laut Aussage im Video evtl. nicht).
+- Ziel "Conversions" geht nur bei direkter Checkout-Weiterleitung — für Affiliate-/Partnerlinks (die meist nicht direkt beworben werden dürfen) ist "Klicks" die praktikable Wahl, kombiniert mit einer eigenen Zwischen-Landingpage statt Direktlink.
+- Targeting ist ungewöhnich granular bis auf Orts-/Postleitzahlenebene möglich — Kehrseite: in sehr kleinen Orten kann es sein, dass zu wenige passende Suchanfragen existieren, damit die Anzeige überhaupt ausgespielt wird (anders als bei Meta, wo Reichweite unabhängig von thematischer Passung da ist).
+- Custom/Benutzerdefinierte Zielgruppen funktionieren aktuell NICHT für Kampagnen mit Zielregion EWR/Schweiz (fehlende personalisierte Anzeigen dort) — Daten werden aber laut Video schon gesammelt für später.
+- Empfehlung für Erstests: alle drei Plattformen (iOS-App, Android, Web) einzeln als separate Kampagnen mit gleichem Budget gegeneinander laufen lassen, um zu sehen, welche Platzierung am besten konvertiert, statt nur eine Sammelkampagne zu bauen.
+- Wochenbudget-Mechanik ist ein Durchschnittswert, kein hartes Tageslimit: ein Tagesbudget von 20€ kann an einem einzelnen Tag bis auf das Doppelte ausgeschöpft werden, wenn die Nachfrage passt, solange der 7-Tage-Durchschnitt eingehalten wird (Beispiel: 40€ Dienstag, dafür nur 10€ Mittwoch/Donnerstag).
+- Bei manuellem Max-CPC-Gebot bewusst über der Plattform-Empfehlung bieten lohnt sich laut Video-Ersterfahrung des Creators (aus früherer Amazon-FBA-Erfahrung übertragen: 3-4€ statt der von ChatGPT vorgeschlagenen ~2€) für schnellere/bessere Sichtbarkeit, gerade in der noch wettbewerbsarmen Frühphase.
+- Tracking-/Abfrageparameter (UTM inkl. dynamischer Platzhalter wie {{Ad ID}}, {{Campaign ID}}) lässt der Creator direkt von ChatGPT/Claude generieren statt selbst zu bauen — funktioniert zuverlässig und spart Setup-Zeit.
+- Anzeigen-Titel sind auf 50 Zeichen begrenzt und werden bei manchen Platzierungen trotzdem abgeschnitten — Value Proposition entsprechend extrem knapp formulieren.
+- Nur Kartenzahlung wird aktuell als Abrechnungsmethode unterstützt (kein Lastschrift/Rechnung) — bei Kundenprojekten vorab klären, ob das ein Hindernis ist.
+- Empfehlung von ChatGPT selbst im Setup-Flow: mehrere Anzeigenvarianten pro Anzeigengruppe anlegen, um unterschiedliche Gesprächsverläufe/Suchintentionen abzudecken, statt nur eine Anzeige pro Gruppe.
+- Landingpages für die Zwischenschaltung lassen sich sehr schnell (~5 Minuten) mit einem ausführlichen KI-Prompt bauen (inkl. Sitemap, robots.txt, Vertrauensleiste, Affiliate-Hinweis am CTA-Button) — seit 1.9.2026 kostet das aber Tokens (~0,70$ pro Seite) statt wie vorher 3 Monate kostenlos, was laut Creator die Nutzung vieler Leute bremst (= Einstiegshürde, die zahlungsbereite frühe Nutzer wiederum bevorteilt).
+
 ## [SO würde ich jetzt ein KI-Startup aufbauen! 100 Mio. Gründer über den letzten Moat (Leon Szeli)](https://youtube.com/watch?v=IYCUeWLO_Cg) — KI Bubble, 2026-08-26
 
 _Processed: 2026-09-04_
