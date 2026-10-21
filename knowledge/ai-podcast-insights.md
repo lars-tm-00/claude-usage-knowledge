@@ -9,6 +9,21 @@ sessions in this repo.
 
 <!-- New entries are prepended below this line. -->
 
+## [Vibe Coding hat sich verändert](https://www.youtube.com/watch?v=W4m_8ovS0RY) — Niklas Steenfatt, 2026-10-16
+
+_Processed: 2026-10-21_
+
+Ex-Meta-Entwickler argumentiert, dass sich agentische Softwareentwicklung allein seit September 2026 grundlegend verschoben hat — weniger menschliche Vorgaben führen jetzt zu besseren Ergebnissen als detailliertes Prompt-/Loop-/Kontext-Engineering.
+
+- Halte CLAUDE.md/AGENTS.md-artige Kontextdateien so schlank wie möglich — nur noch exotische, repo-spezifische Regeln rein, die selbst ein fähiger Entwickler unmöglich aus der Codebase ableiten könnte. Eine ETH-Zürich-Studie (Sept. 2026, arxiv.org/abs/2602.11988) fand: generische Kontextdateien verbessern die Erfolgsrate der Agenten nicht, erhöhen aber die Inferenzkosten um ca. 20%.
+- Ersetze in Markdown geschriebene Prozessregeln wo möglich durch erzwingbare Mechanismen statt Text: ein Hotkey-Skript, das automatisch einen neuen Branch/Worktree anlegt, statt die Anweisung "legt für neue Features einen Worktree an" in die Doku zu schreiben; Lint-Regeln/CI-Checks statt Text-Konventionen — Agenten schauen sich ohnehin die Konfiguration/Codebase an.
+- Prompte kürzer und ergebnisorientierter statt Schritt-für-Schritt — ein knapper Outcome-Prompt ("baue X nach", "mach einen tollen Film") liefert bei aktuellen Modellen (GPT-6 Astra, Opus 5.5, Fable 5.1) regelmäßig bessere Resultate als ein langer, detaillierter Prompt, sowohl beim Coden als auch bei Medien-Generierung (z. B. Seedance).
+- Baue kein eigenes "Loop Engineering" mehr (manuelle Retry-/Wiederholungsschleifen) — eine ausreichend anspruchsvolle Aufgabe reicht, aktuelle Agenten (Claude Code, Codex) arbeiten inzwischen eigenständig über viele Stunden bis Tage autonom weiter (Beispiel im Video: 24h durchgehende Claude-Code-Session ohne Kontext-Probleme).
+- Trenne weiterhin unterschiedliche Aufgaben in separate Threads/Sessions (Übersichtlichkeit für dich, weniger Verwirrung für den Agenten bei Themenwechsel/geänderter Meinung) — aber starte Sessions nicht mehr nur deshalb neu, um das Kontextfenster klein zu halten, da aktuelle Modelle selbst gut komprimieren/verwalten.
+- Baue keine manuell orchestrierten, benannten Sub-Agent-Teams ("Hugo macht Frontend, Jimmy macht Backend") für eine einzelne Coding-Aufgabe nur der Optik wegen — Claude Code/Codex spawnen bei Bedarf selbst effizient eigene Subagents. Manuelle Multi-Agent-Setups lohnen sich nur für wirklich getrennte Domänen (z. B. ein Agent für persönliche Assistenz, einer für Kundensupport, einer für Entwicklung).
+- Verschiebe Code-Reviews von zeilenweisem Lesen hin zu selektiven Stichproben plus einem dedizierten, fokussierten Security-Review-Pass bei kritischen Features ("review die Codebase und such aktiv nach Vulnerabilities") — ein fokussierter zweiter Pass findet mehr als der allgemeine Bau-Pass, genau wie bei menschlichen Entwicklerteams.
+- Prompte bei sicherheitskritischen Features explizit "make it safe" — Modelle reagieren nachweisbar gründlicher auf diese explizite Anweisung als ohne sie.
+
 ## [Wie du diese 3 Geschäftsideen an diesem WE startest (mit Verena Scheffcyzk, Million Labs)](https://www.youtube.com/watch?v=fQZJPdUhDvs) — Digitale Optimisten | Geschäftsideen & Tech-Talks, 2026-09-07
 
 _Processed: 2026-09-08_
